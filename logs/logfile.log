@@ -1,0 +1,8 @@
+INFO  | 2021-06-29 08:14:14 | [main] JavaSamples.App (App.java:16) - Hello javawill be printed 
+WARN  | 2021-06-29 08:14:14 | [main] JavaSamples.App (App.java:18) - Hello javawill be printed on warn
+ERROR | 2021-06-29 08:14:14 | [main] JavaSamples.App (App.java:19) - Hello javawill be printed error 
+FATAL | 2021-06-29 08:14:14 | [main] JavaSamples.App (App.java:20) - Hello javawill be printed on fatal
+INFO  | 2021-06-29 08:17:49 | [main] JavaSamples.App (App.java:16) - Hello javawill be printed 
+WARN  | 2021-06-29 08:17:49 | [main] JavaSamples.App (App.java:18) - Hello javawill be printed on warn
+ERROR | 2021-06-29 08:17:49 | [main] JavaSamples.App (App.java:19) - Hello javawill be printed error 
+FATAL | 2021-06-29 08:17:49 | [main] JavaSamples.App (App.java:20) - Hello javawill be printed on fatal
